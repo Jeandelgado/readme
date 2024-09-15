@@ -1,9 +1,9 @@
 # readme
-pagina web wordpress
-project-template/
+ Wordpress
+project-Pagina web/
 │
 ├── src/
-│   ├── main.py
+│   ├── ().py
 │   └── utils.py
 │
 ├── docs/
@@ -14,4 +14,4 @@ project-template/
 │
 ├── .gitignore
 ├── README.md
-└── LICENSE
+
